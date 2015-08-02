@@ -19,5 +19,8 @@
     "jquery/dist/jquery.min.js",
     "bootstrap/dist/css/bootstrap.min.css",
     "d3/d3.min.js"
-  ]
+  ],
+  "devDependencies": {
+    "grunt-contrib-copy": "^0.8.0"
+  }
 }
