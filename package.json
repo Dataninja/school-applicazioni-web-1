@@ -1,6 +1,6 @@
 {
   "name": "app_web_example",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Applicazioni web: un esempio completo (Dataninja School)",
   "main": "index.html",
   "scripts": {
