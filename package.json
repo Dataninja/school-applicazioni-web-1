@@ -1,0 +1,18 @@
+{
+  "name": "app_web_example",
+  "version": "0.0.0",
+  "description": "Applicazioni web: un esempio completo (Dataninja School)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "data",
+    "visualization",
+    "d3js",
+    "dataninja"
+  ],
+  "author": "Alessio Cimarelli <alessio.cimarelli@gmail.com>",
+  "license": "MIT"
+}
